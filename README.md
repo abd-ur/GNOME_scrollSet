@@ -1,4 +1,4 @@
-## Working prototype to configure touchpad scrolling sensitivity for Asahi Fedora GNOME running on Mac m1
+## Prototype to configure touchpad scrolling sensitivity for Asahi Fedora GNOME running on Mac m1
 
 ---
 
