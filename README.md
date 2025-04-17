@@ -18,6 +18,7 @@
 - Write access to:
   - `/dev/input/eventX`
   - `/dev/uinput`
+- Refer to dependency_installation
 
 ---
 
